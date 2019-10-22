@@ -1,0 +1,10 @@
+C:\Users\astam\source\repos\Flores_de_Iris\bin\Debug\netcoreapp2.2\Flores_de_Iris.deps.json
+C:\Users\astam\source\repos\Flores_de_Iris\bin\Debug\netcoreapp2.2\Flores_de_Iris.runtimeconfig.json
+C:\Users\astam\source\repos\Flores_de_Iris\bin\Debug\netcoreapp2.2\Flores_de_Iris.runtimeconfig.dev.json
+C:\Users\astam\source\repos\Flores_de_Iris\bin\Debug\netcoreapp2.2\Flores_de_Iris.dll
+C:\Users\astam\source\repos\Flores_de_Iris\obj\Debug\netcoreapp2.2\Flores_de_Iris.csprojAssemblyReference.cache
+C:\Users\astam\source\repos\Flores_de_Iris\obj\Debug\netcoreapp2.2\Flores_de_Iris.AssemblyInfoInputs.cache
+C:\Users\astam\source\repos\Flores_de_Iris\obj\Debug\netcoreapp2.2\Flores_de_Iris.AssemblyInfo.cs
+C:\Users\astam\source\repos\Flores_de_Iris\bin\Debug\netcoreapp2.2\Flores_de_Iris.pdb
+C:\Users\astam\source\repos\Flores_de_Iris\obj\Debug\netcoreapp2.2\Flores_de_Iris.dll
+C:\Users\astam\source\repos\Flores_de_Iris\obj\Debug\netcoreapp2.2\Flores_de_Iris.pdb
